@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://m7unlimited.com/"/>
+  <link href="https://www.m7unlimited.com/"/>
   <updated>2018-02-17T03:27:35.014Z</updated>
-  <id>http://m7unlimited.com/</id>
+  <id>https://www.m7unlimited.com/</id>
   
   <author>
     <name>Miranda Ragland</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://m7unlimited.com/2018/02/16/Hello-World/"/>
-    <id>http://m7unlimited.com/2018/02/16/Hello-World/</id>
+    <link href="https://www.m7unlimited.com/2018/02/16/Hello-World/"/>
+    <id>https://www.m7unlimited.com/2018/02/16/Hello-World/</id>
     <published>2018-02-17T01:33:52.000Z</published>
     <updated>2018-02-17T03:27:35.014Z</updated>
     
